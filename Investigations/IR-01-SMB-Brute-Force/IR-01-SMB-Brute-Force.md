@@ -14,7 +14,7 @@
 
 ### 4.1 Preparation
 A test account was created to safely conduct this brute-force attack, with the username `labuser`. The IP address of the victim was also obtained.
-![Figure 1 — Dedicated lab account](screenshots/01-lab-account.png)
+![Figure 1 — Dedicated lab account](Screenshots/01-lab-account.png)
 
 ## Findings and Interpretation
 
