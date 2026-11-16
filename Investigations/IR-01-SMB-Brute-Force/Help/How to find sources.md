@@ -1,3 +1,8 @@
+# Classify Sources
+- Primary - victim's statements, court hearings, regulator, government bodies
+- Secondary - reporting, analysis
+- Claim - attacker's statements
+
 # Answer these questions. Fail any, and you should consider other sources.
 ## Is it about the incident?
 - Is the company name correct?
