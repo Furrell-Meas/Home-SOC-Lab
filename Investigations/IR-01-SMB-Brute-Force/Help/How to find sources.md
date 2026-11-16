@@ -13,7 +13,7 @@
 - Is it original (republish needs the same byline as original outlet; reporters need to be the same; need to quote the interview and not another blog)?
 - say anything useful?
 
-===
+**---**
 
 # Admiralty Code
 ## Source Trust
